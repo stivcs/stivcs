@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typed.js](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Stiven;Systems+Engineering+Student;🚀+Constantly+learning&speed=80)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typed.js](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Stiven;Systems+Engineering+Student;🚀+Constantly+learning&speed=80)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 <!--horizontal divider(gradiant)-->
