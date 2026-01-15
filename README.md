@@ -1,3 +1,6 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 💫 About Me:
 I am currently a systems engineering student<br>I love technology and software<br>I like to constantly learn new things<br>I love teamwork
 
