@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typed.js](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Stiven;Systems+Engineering+Student;🚀+Constantly+learning&speed=50)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typed.js](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Stiven;Systems+Engineering+Student;🚀+Constantly+learning&speed=80)](https://github.com/DenverCoder1/readme-typing-svg)
 
 </div>
 <!--horizontal divider(gradiant)-->
@@ -52,4 +52,5 @@ I am currently a systems engineering student<br>I love technology and software<b
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stlvcs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stiven-castro-soto-120593283) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:stiven.castro@utp.edu.co)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=40)](https://instagram.com/stlvcs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40)](https://linkedin.com/in/stiven-castro-soto-120593283) [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40)](mailto:stiven.castro@utp.edu.co)
+
